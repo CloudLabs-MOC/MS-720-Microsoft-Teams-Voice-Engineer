@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "MS-720: Microsoft Teams Voice Engineer",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabs-MOC/MS-720-Microsoft-Teams-Voice-Engineer/tree/main/Instructions/Labs",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-720-Microsoft-Teams-Voice-Engineer/main/Instructions/Labs/LAB_AK_01_prepare_lab_environment.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-720-Microsoft-Teams-Voice-Engineer/main/Instructions/Labs/LAB_AK_02_configure_environment_teams_voice.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-720-Microsoft-Teams-Voice-Engineer/main/Instructions/Labs/LAB_AK_03_expand_environment_direct_routing.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-720-Microsoft-Teams-Voice-Engineer/main/Instructions/Labs/LAB_AK_04_manage_teams_voice_environment.md",
+        "Order": 4
+      }
+    ]
+  }
+]
